@@ -1,0 +1,18 @@
+// Main Sass File
+
+@charset "UTF-8";
+
+
+@import "node_modules/bootstrap/scss/mixins/transition";
+@import "node_modules/bootstrap/scss/mixins/box-shadow";
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/mixins/grid";
+@import "node_modules/bootstrap/scss/mixins/breakpoints";
+@import "node_modules/bootstrap/scss/mixins";
+@import "components/custom-variables";
+@import "components/overrides";
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap/scss/bootstrap-grid";
+
+
+

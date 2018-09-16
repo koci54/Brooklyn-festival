@@ -1,0 +1,15 @@
+$dark-overlay: rgba(0,0,0,0.5);
+$img-uri: ('../img/home.jpeg');
+  
+.jumbotron {
+    background: linear-gradient(
+      $dark-overlay,
+      $dark-overlay), 
+      url($img-uri) no-repeat center center fixed;
+    min-height: 37.5em;
+}
+
+.navbar-toggler {
+    cursor: pointer;
+    outline: 0;
+}
