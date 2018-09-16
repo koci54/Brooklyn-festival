@@ -1,0 +1,20 @@
+
+@import "node_modules/bootstrap/scss/variables";
+
+$deep-purple-500:   #673AB7;
+$deep-purple-200:   #B39DDB;
+$deep-purple-50:    #EDE7F6;
+
+$colors: (
+ deep-purple-500: $deep-purple-500,
+ deep-purple-200: $deep-purple-200,
+ deep-purple-50: $deep-purple-50,
+); 
+
+$theme-colors: ( 
+    primary: $deep-purple-500,
+    deep-purple-200: $deep-purple-200,
+    deep-purple-50: $deep-purple-50,
+);
+
+
